@@ -1,2 +1,2 @@
 # max-volume
-A simple app to control a devices volume with support for both English and Spanish languages
+A simple app that allows users to automatically set volume channels to full volume with support for both English and Spanish languages
