@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Volumen Completo</string>
+    <string name="ringer_max_volume_button_text">Volumen de Timbre al Máximo</string>
+    <string name="call_max_volume_button_text">Volumen de Llamadas al Máximo</string>
+    <string name="ringer_max_volume_percentage_text">Volumen de Timbre: %1$d%%</string>
+    <string name="call_max_volume_percentage_text">Volumen de Llamada: %1$d%%</string>
+</resources>

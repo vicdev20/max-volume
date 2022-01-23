@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Full Volume</string>
+    <string name="ringer_max_volume_button_text">Set Ringer To Max Volume</string>
+    <string name="call_max_volume_button_text">Set Call To Max Volume</string>
+    <string name="ringer_max_volume_percentage_text">Ringer Volume: %1$d%%</string>
+    <string name="call_max_volume_percentage_text">Call Volume: %1$d%%</string>
+</resources>
